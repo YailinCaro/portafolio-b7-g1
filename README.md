@@ -12,13 +12,13 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 ![Presenteación](assets/readme/1.png)
 
-![Habilidades](assets/habilidades.png)
+![Habilidades](assets/readme/2.png)
 
-![Proyectos](assets/proyectos.png)
+![Proyectos](assets/readme/3.png)
 
-![Tesimonios](assets/testimonios.png)
+![Tesimonios](assets/readme/4.png)
 
-![Contacto](assets/contacto.png)
+![Contacto](assets/readme/5.png)
 
 ## Tecnologías
 
